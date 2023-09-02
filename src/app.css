@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color:aliceblue;
+    padding: 1rem;
+    text-align: center;
+}
+
+body {
+    height: 100%;
+    min-height: 50%;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
